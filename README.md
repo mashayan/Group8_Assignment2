@@ -1,5 +1,11 @@
 # Data Analytics With Python
 ### Assignment 2:COMP20008 Data Science Project
+## <0DATA0006_2021_OCT_PAR_1> Group 8
+## Student Names:
+   * Maryam Shayan 
+   * Priyanka Garg
+   * Vinh Nguyen
+   * Peiling Xian
 ## Objectives
 The objectives of this assignment are:
 
